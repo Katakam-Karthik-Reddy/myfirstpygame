@@ -1,0 +1,1 @@
+icon = pygame.image.load('ufo.png')
